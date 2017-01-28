@@ -10,14 +10,14 @@ Code: Java<br />
 Data persistance: MySQL (Local)<br />
 JUnit Tests: Todo/Not completed<br />
 
-###### Database setup:
-Create database customtest;
-Create table `users`(
-    `id` int(3) NOT NULL AUTO_INCREMENT, 
-    `name` VARCHAR(100) NOT NULL, 
-    `credits` int (4), 
-    primary key (`id`)
-);
+###### Database setup:<br />
+Create database customtest;<br />
+Create table `users`(<br />
+    `id` int(3) NOT NULL AUTO_INCREMENT, <br />
+    `name` VARCHAR(100) NOT NULL, <br />
+    `credits` int (4), <br />
+    primary key (`id`)<br />
+);<br />
 
 ###### Usage:
 - MySQL up and running
