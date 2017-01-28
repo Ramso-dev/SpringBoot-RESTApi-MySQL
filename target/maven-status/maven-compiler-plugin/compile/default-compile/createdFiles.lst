@@ -1,0 +1,12 @@
+com\ramso\restapi\UserRepository.class
+com\ramso\restapi\User$Builder.class
+com\ramso\restapi\Application.class
+com\ramso\restapi\UserDTO.class
+com\ramso\restapi\UserService.class
+com\ramso\restapi\UserController.class
+com\ramso\restapi\User.class
+com\ramso\restapi\util\UserNotFoundException.class
+com\ramso\restapi\MySQLUserService.class
+com\ramso\restapi\User$1.class
+com\ramso\restapi\util\CantReachDatabaseException.class
+com\ramso\restapi\util\ConditionsMethods.class
